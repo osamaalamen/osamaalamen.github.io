@@ -1,0 +1,2 @@
+# osmaalamen.github.io
+website
